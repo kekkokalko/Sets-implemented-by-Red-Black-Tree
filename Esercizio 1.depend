@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1614243596 source:c:\users\utente\desktop\esercizio 1\servizio-methods.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	"Servizio.hpp"
+	"Red-Black-Tree.hpp"
+
+1616318404 -Tree.hpp"
+
+1613488960 c:\users\utente\desktop\esercizio 1\servizio.hpp
+	<string>
+
+1614243596 
+
+1614243596 c:\users\utente\desktop\esercizio 1\red-black-tree.hpp
+	<string>
+
+1613493037 source:c:\users\utente\desktop\esercizio 1\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	"Servizio.hpp"
+
+1616318036 hpp"
+
+1614243596 source:c:\users\utente\desktop\esercizio 1\red-black-methods.cpp
+	"Red-Black-Tree.hpp"
+	<iostream>
+	<string>
+
+1613493037 source:c:\users\utente\desktop\insiemi implementati con alberi red black\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	"Servizio.hpp"
+
+1613488960 c:\users\utente\desktop\insiemi implementati con alberi red black\servizio.hpp
+	<string>
+
+1614243596 source:c:\users\utente\desktop\insiemi implementati con alberi red black\red-black-methods.cpp
+	"Red-Black-Tree.hpp"
+	<iostream>
+	<string>
+
+1614243596 c:\users\utente\desktop\insiemi implementati con alberi red black\red-black-tree.hpp
+	<string>
+
+1614243596 source:c:\users\utente\desktop\insiemi implementati con alberi red black\servizio-methods.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	"Servizio.hpp"
+	"Red-Black-Tree.hpp"
+
+1616318036 source:c:\users\utente\desktop\codice sorgente\insiemi implementati con alberi red black\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	"Servizio.hpp"
+
+1613488960 c:\users\utente\desktop\codice sorgente\insiemi implementati con alberi red black\servizio.hpp
+	<string>
+
+1614243596 source:c:\users\utente\desktop\codice sorgente\insiemi implementati con alberi red black\red-black-methods.cpp
+	"Red-Black-Tree.hpp"
+	<iostream>
+	<string>
+
+1614243596 c:\users\utente\desktop\codice sorgente\insiemi implementati con alberi red black\red-black-tree.hpp
+	<string>
+
+1616318404 source:c:\users\utente\desktop\codice sorgente\insiemi implementati con alberi red black\servizio-methods.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	"Servizio.hpp"
+	"Red-Black-Tree.hpp"
+
+1617720759 source:/home/salvatoremattera/Documenti/Francesco/da francesco/2021 03 29 traccia 1 es 1/main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<vector>
+	"Servizio.hpp"
+
+1613456560 /home/salvatoremattera/Documenti/Francesco/da francesco/2021 03 29 traccia 1 es 1/Servizio.hpp
+	<string>
+
+1614211196 source:/home/salvatoremattera/Documenti/Francesco/da francesco/2021 03 29 traccia 1 es 1/Red-Black-Methods.cpp
+	"Red-Black-Tree.hpp"
+	<iostream>
+	<string>
+
+1614211196 /home/salvatoremattera/Documenti/Francesco/da francesco/2021 03 29 traccia 1 es 1/Red-Black-Tree.hpp
+	<string>
+
+1617723690 source:/home/salvatoremattera/Documenti/Francesco/da francesco/2021 03 29 traccia 1 es 1/Servizio-Methods.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	"Servizio.hpp"
+	"Red-Black-Tree.hpp"
+
+1614214796 source:c:\users\francesco\desktop\2021 04 07 traccia 1 es 1\red-black-methods.cpp
+	"Red-Black-Tree.hpp"
+	<iostream>
+	<string>
+
+1614214796 c:\users\francesco\desktop\2021 04 07 traccia 1 es 1\red-black-tree.hpp
+	<string>
+
+1617868518 source:c:\users\francesco\desktop\2021 04 07 traccia 1 es 1\servizio-methods.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	"Servizio.hpp"
+	"Red-Black-Tree.hpp"
+
+1613460160 c:\users\francesco\desktop\2021 04 07 traccia 1 es 1\servizio.hpp
+	<string>
+
+1617865654 source:c:\users\francesco\desktop\2021 04 07 traccia 1 es 1\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<vector>
+	"Servizio.hpp"
+
+1617865654 source:c:\users\francesco\desktop\insiemi implementati mediante alberi red-black\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<vector>
+	"Servizio.hpp"
+
+1613460160 c:\users\francesco\desktop\insiemi implementati mediante alberi red-black\servizio.hpp
+	<string>
+
+1614214796 source:c:\users\francesco\desktop\insiemi implementati mediante alberi red-black\red-black-methods.cpp
+	"Red-Black-Tree.hpp"
+	<iostream>
+	<string>
+
+1614214796 c:\users\francesco\desktop\insiemi implementati mediante alberi red-black\red-black-tree.hpp
+	<string>
+
+1617894170 source:c:\users\francesco\desktop\insiemi implementati mediante alberi red-black\servizio-methods.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	"Servizio.hpp"
+	"Red-Black-Tree.hpp"
+
+1617865654 source:c:\users\utente\desktop\codice sorgente\insiemi implementati mediante alberi red-black\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<vector>
+	"Servizio.hpp"
+
+1613460160 c:\users\utente\desktop\codice sorgente\insiemi implementati mediante alberi red-black\servizio.hpp
+	<string>
+
+1620466092 source:c:\users\utente\desktop\codice sorgente\insiemi implementati mediante alberi red-black\red-black-methods.cpp
+	"Red-Black-Tree.hpp"
+	<iostream>
+	<string>
+
+1614214796 c:\users\utente\desktop\codice sorgente\insiemi implementati mediante alberi red-black\red-black-tree.hpp
+	<string>
+
+1618148231 source:c:\users\utente\desktop\codice sorgente\insiemi implementati mediante alberi red-black\servizio-methods.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	"Servizio.hpp"
+	"Red-Black-Tree.hpp"
+

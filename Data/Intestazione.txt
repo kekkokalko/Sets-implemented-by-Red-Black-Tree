@@ -1,0 +1,19 @@
+************************************************************************
+*								       *
+*								       *
+*		Corso di Algoritmi e Strutture Dati 		       *	
+*		     						       *
+*		      Anno accademico 2020/2021		       	       *	
+*								       *
+*		Prof. Francesco Camastra / Alessio Ferone	       *
+*								       *
+*	    Studente Francesco Calcopietro Matr. 0124002090	       *	
+*								       *
+*			Traccia 1 Esercizio 1			       *
+*								       *
+*								       *
+************************************************************************
+
+
+
+
